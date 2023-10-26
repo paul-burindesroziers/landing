@@ -1,0 +1,10 @@
+.banner {
+	background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../../images/image5.jpg);
+padding : 150px 0px ; 
+background-size:cover;
+background-position: center;}
+
+.banner img { margin-left: 230px;}
+.banner button {margin-left:325px;}
+.banner h1 {margin-left: 300px; color:black; text-decoration: underline;}
+

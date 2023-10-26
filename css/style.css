@@ -1,0 +1,63 @@
+
+@import url("components/container.css") ;
+@import url("components/avatar.css") ;
+@import url("components/button.css") ;
+@import url("components/banner.css") ;
+@import url("components/card.css") ;
+
+
+
+
+ {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Gabarito;
+    background-color: #f0f0f0;
+
+}
+
+header {background-color: #666666;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+  font-family: Josefin Sans }
+
+h2{font-family: Josefin Sans}
+
+ul{font-size: 30px;}
+
+li{font-size: 15px;}
+
+header h1 {font-size: 60px;
+    font-family: Josefin Sans}
+
+nav ul {list-style-type: none;
+    text-align: center;}
+
+nav li {display: inline;
+    margin: 0 20px;}
+
+nav a {text-decoration: none;
+    color: #333;
+    font-weight: bold;}
+
+main {max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;}
+
+section {margin-bottom: 20px;}
+
+
+footer {background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;}
+
+a {font-size: 15px}
+
+
+

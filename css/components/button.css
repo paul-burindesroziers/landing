@@ -1,0 +1,18 @@
+.bouton-instagram {
+    background-color: black; 
+    color: white; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+    cursor: pointer;
+    font-family: Josefin sans;
+}
+
+.bouton-instagram:hover {
+    background-color: #555; 
+}
